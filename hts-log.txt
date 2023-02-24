@@ -1,0 +1,13 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Fri, 24 Feb 2023 14:01:31 at https://conference.awwwards.com/?utm_source=banner_lists
+(httrack https://conference.awwwards.com/?utm_source=banner_lists )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:02:51	Error: 	"Not Found" (404) at link https://conference.awwwards.com/assets/styles/preloader.gif (from https://conference.awwwards.com/assets/styles/main.css?v=202209141329)
+14:03:11	Error: 	"Not Found" (404) at link https://conference.awwwards.com/specialoffer.inc (from https://conference.awwwards.com/talks/designing-for-other-artists)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 40 seconds : 101 links scanned, 98 files written (12421014 bytes overall) [9133947 bytes received at 91339 bytes/sec], 4814190 bytes transferred using HTTP compression in 56 files, ratio 28%, 16.8 requests per connection
+(2 errors, 0 warnings, 0 messages)
